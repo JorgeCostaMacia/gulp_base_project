@@ -1,0 +1,8 @@
+.vscode/
+.vs/
+.idea/
+node_modules/
+private/
+dist/
+temp/
+package-lock.json
