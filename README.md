@@ -570,3 +570,30 @@
 	==========================================================================
 	node_modules/vegas/dist/vegas.min.js
 	node_modules/vegas/dist/vegas.min.css
+	
+### JSPDF
+	[https://parall.ax/products/jspdf](https://parall.ax/products/jspdf)
+	[https://www.npmjs.com/package/jspdf](https://www.npmjs.com/package/jspdf)
+    [https://github.com/MrRio/jsPDF](https://github.com/MrRio/jsPDF)
+    
+	npm i -D jspdf
+
+	node_modules/jspdf/dist/jspdf.min.js
+	==========================================================================
+	node_modules/jspdf/dist/jspdf.min.js
+
+### JSPDF-AUTOTABLE
+	[https://simonbengtsson.github.io/jsPDF-AutoTable/](https://simonbengtsson.github.io/jsPDF-AutoTable/)
+	[https://www.npmjs.com/package/jspdf-autotable](https://www.npmjs.com/package/jspdf-autotable)
+    [https://github.com/simonbengtsson/jsPDF-AutoTable](https://github.com/simonbengtsson/jsPDF-AutoTable)
+    
+	npm i -D jspdf-autotable
+
+	node_modules/jspdf-autotable/dist/jspdf.plugin.autotable.min.js
+	==========================================================================
+	node_modules/jspdf-autotable/dist/jspdf.plugin.autotable.min.js
+	
+### JSPDF-ADDIMAGE
+	[https://parall.ax/products/jspdf](https://parall.ax/products/jspdf)
+	[https://www.npmjs.com/package/jspdf](https://www.npmjs.com/package/jspdf)
+    [https://github.com/MrRio/jsPDF](https://github.com/MrRio/jsPDF)

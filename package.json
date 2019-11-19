@@ -58,6 +58,8 @@
         "imagemin-svgo": "^7.0.0",
         "jq-accordion": "^1.0.3",
         "jquery": "^3.4.1",
+        "jspdf": "^1.5.3",
+        "jspdf-autotable": "^3.2.11",
         "masonry-layout": "^4.2.2",
         "mmenu-js": "^8.4.1",
         "moment": "^2.24.0",
